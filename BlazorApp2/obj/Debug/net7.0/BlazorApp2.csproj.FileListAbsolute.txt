@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Escritorio\BD2Blazor\BlazorApp2\obj\Debug\net7.0\BlazorApp2.sourcelink.json
